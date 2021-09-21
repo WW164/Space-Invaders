@@ -1,0 +1,5 @@
+1: 2 rows aliens
+2: 3 rows aliens + 1 rows enhanced aliens
+3: 3 rows aliens + 2 rows enhances aliens + 1 boss
+
+powerup: extral life + reiforce bunkers
