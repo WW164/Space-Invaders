@@ -25,5 +25,7 @@ In order to open this program, you need a 2019.4.14f1 or higher Unity installed 
 The program is on Master branch.
 
 -----
+![GitHub repo size](https://img.shields.io/github/repo-size/WW164/Space-Invaders) ![GitHub](https://img.shields.io/github/license/WW164/Space-Invaders) 
 
+Copyright (c) 2021 Parinaz Mirbagheri
 
