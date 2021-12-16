@@ -22,5 +22,5 @@ Here is a screenshot of the boss fight:
 I developed this game due to a challenge for an game developer intern position.
 
 ### Specifications for accessing the program
-In order to open this program, you need a 2019.4.14f1 or higher Unity installed on your device.
+In order to open this program, you need Unity 2019.4.14f1 or higher version installed on your device.
 
